@@ -1,7 +1,7 @@
 # Housing-sale-prediction
 ## XGBoost model optimization using GridSearch method
 <br/>
- Run in `google Colab`
+ Run in `googleColab`
  <br/>
 Reading Housing Data
 <br/>
@@ -9,7 +9,7 @@ Data Preprocessing
 <br/>
 Exploratory data analysis
 <br/>
-### Feature Scaling
+Feature Scaling
 <br/>
 XGBoost modelling (Xtreme Gradient Boosting) finding the best set of hyperparameters and tuning
                         random_state=42,
